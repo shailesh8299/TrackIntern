@@ -85,7 +85,7 @@ Database (Neon PostgreSQL)
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/trackintern.git
+git clone https://github.com/shailesh8299/trackintern.git
 cd trackintern
 ```
 
